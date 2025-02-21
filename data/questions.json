@@ -1,0 +1,103 @@
+ [
+    {
+        "question": "What type of programming language is Python?",
+        "options": [ "Low-Level", "Assembly", "Machine Code","High-Level"],
+        "answer": "High-Level"
+    },
+    {
+        "question": "What is Streamlit used for?",
+        "options": [ "Data Analysis","Web Apps", "Machine Learning", "Everything"],
+        "answer": "Web Apps"
+    },
+    {
+        "question": "What is Python's default integer type?",
+        "options": [ "float", "double", "int","long"],
+        "answer": "int"
+    },
+    {
+        "question": "How do you declare a list in Python?",
+        "options": ["{}","[]",  "()", "<>"],
+        "answer": "[]"
+    },
+    {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": [ "function", "lambda", "func","def"],
+        "answer": "def"
+    },
+    {
+        "question": "Which mode is used in Python to write data to a file?",
+        "options": ["r", "a", "w","x"],
+        "answer": "w"
+    },
+    {
+        "question": "Which version of Python is most widely used?",
+        "options": ["2.7", "3.8", "3.9", "3.10"],
+        "answer": "3.10"
+    },
+    {
+    "question": "What is the purpose of the 'self' keyword in Python?",
+    "options": ["To refer to the class", "To refer to the instance", "To refer to a method", "None of the above"],
+    "answer": "To refer to the instance"
+    },
+
+    {
+        "question": "Which function is used to get input in Python?",
+        "options": ["input()", "scan()", "get()", "read()"],
+        "answer": "input()"
+    },
+    {
+        "question": "What type of data structure is a tuple in Python?",
+        "options": ["Immutable", "Mutable", "Dynamic", "Static"],
+        "answer": "Immutable"
+    },
+    {
+        "question": "Which of the following determines the scope of a variable in Python?",
+        "options": ["Function", "Global", "Both", "None"],
+        "answer": "Both"
+    },
+    {
+        "question": "Which block is used for exception handling in Python?",
+        "options": ["try/except", "throw/catch", "if/else", "begin/rescue"],
+        "answer": "try/except"
+    },
+    {
+        "question": "What is a lambda function in Python?",
+        "options": ["Anonymous function", "Built-in function", "Named function", "Function decorator"],
+        "answer": "Anonymous function"
+    },
+    {
+        "question": "Which function is used to get the length of a dictionary in Python?",
+        "options": [ "size()","len()", "count()", "length()"],
+        "answer": "len()"
+    },
+    {
+        "question": "Which statement is used to break a loop in Python?",
+        "options": ["break", "exit", "stop", "end"],
+        "answer": "break"
+    },
+    {
+        "question": "Which function is used to sort a list in Python?",
+        "options": [ "order()", "arrange()", "sort()","sorted()"],
+        "answer": "sort()"
+    },
+    {
+        "question": "Which method is used to convert a string to lowercase in Python?",
+        "options": ["lower()", "upcase()", "downcase()", "capitalize()"],
+        "answer": "lower()"
+    },
+    {
+        "question": "Which method is used to add an element to a list in Python?",
+        "options": ["append()", "insert()", "add()", "push()"],
+        "answer": "append()"
+    },
+    {
+        "question": "Which module is used to generate random numbers in Python?",
+        "options": ["random", "math", "os", "sys"],
+        "answer": "random"
+    },
+    {
+        "question": "Which operator is used for identity testing in Python?",
+        "options": ["is", "==", "=", "!"],
+        "answer": "is"
+    }
+]
